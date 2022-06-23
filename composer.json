@@ -1,5 +1,5 @@
 {
-    "name": "weiyizheng/test-package",
+    "name": "heiue/test-package",
     "type": "project",
     "autoload": {
         "psr-4": {
