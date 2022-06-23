@@ -1,6 +1,6 @@
 {
     "name": "heiue/test-package",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Weiyizheng\\TestPackage\\": "src/"
