@@ -7,4 +7,9 @@ class Test
     {
         echo 'hello';
     }
+
+    public function test()
+    {
+        echo 'test';
+    }
 }
